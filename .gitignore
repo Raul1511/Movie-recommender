@@ -1,0 +1,7 @@
+similarity.pkl
+vectors.pkl
+data/
+output/
+.ipynb_checkpoints/
+__pycache__/
+*.db
